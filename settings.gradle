@@ -1,0 +1,2 @@
+rootProject.name='AnotherNavigationDrawer2'
+include ':app'
